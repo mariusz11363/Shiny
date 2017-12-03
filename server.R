@@ -16,7 +16,7 @@ library(tmap)
 data(World)
 #library(maptools)
 # Define server logic required to draw a histogram
-setwd("D:/Moje dokumenty/Praca_magisterska/MagisterkaNetCDF/shiny-master/")
+#setwd("D:/Moje dokumenty/Praca_magisterska/MagisterkaNetCDF/shiny-master/")
 
 #
 
